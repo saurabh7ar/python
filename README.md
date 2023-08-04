@@ -30,5 +30,5 @@ The directories look like this in Linux and macOS:
 
 
 Avoid placing your program files within the "env" directory. Instead, it's recommended to organize your code files in a directory named "src" or a similar alternative.
-# To activate virtual environment, you need to activate is by calling an anctivate script.
-  # C:\ .. \env\Scripts\activate
+## To activate virtual environment, you need to activate is by calling an anctivate script.
+  ### C:\ .. \env\Scripts\activate
