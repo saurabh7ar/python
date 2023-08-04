@@ -40,3 +40,13 @@ Avoid placing your program files within the "env" directory. Instead, it's recom
     C:\ .. \env\Scripts\activate
   ```
 ![Activate Virtual Environment](https://github.com/saurabh7ar/python/assets/132929888/450f710c-72be-492c-b791-4712e5c7ff89)
+
+### Install a library in Virtual Environment
+
+Screenshot below is self-explanatory
+![Install Package](https://github.com/saurabh7ar/python/assets/132929888/d0aeb63f-ce48-44c9-a851-38681a252b1f)
+
+### Deactivate Virtual Environment
+```python
+    deactivate
+  ```
